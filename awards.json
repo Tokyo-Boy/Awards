@@ -196,5 +196,11 @@
     "title": "The Legend of the Untangled Wire",
     "description": "Pulling a pair of wired headphones out of your pocket and finding them neatly laid out instead of tied into a complex nautical knot.",
     "image": "images/award33.webp"
+  },
+  {
+    "id": 34,
+    "title": "The Targeted Wave Recovery",
+    "description": "Waving back to someone who was looking in your direction, realizing they were actually waving to the person behind you, and smoothly transitioning into styling your hair without anyone noticing.",
+    "image": "images/award34.webp"
   }
 ]
