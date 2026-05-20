@@ -202,5 +202,29 @@
     "title": "The Targeted Wave Recovery",
     "description": "Waving back to someone who was looking in your direction, realizing they were actually waving to the person behind you, and smoothly transitioning into styling your hair without anyone noticing.",
     "image": "images/award34.webp"
+  },
+  {
+    "id": 35,
+    "title": "The Golden Commuter: Bus Edition",
+    "description": "Sitting next to someone on a city bus for over 45 minutes while perfectly matching their desire for total silence, never spilling into their seat, and efficiently tucking your knees away when they need to exit.",
+    "image": "images/award35.webp"
+  },
+  {
+    "id": 36,
+    "title": "The Armrest Diplomat: Airplane Edition",
+    "description": "Successfully navigating an 8-hour flight in the middle seat without stealing the armrests, aggressively snoring, or waking up your seatmates more than once to use the restroom.",
+    "image": "images/award36.webp"
+  },
+  {
+    "id": 37,
+    "title": "The Paragon of the Pavement",
+    "description": "Achieving absolute safe driver status by using your turn signal 3 seconds before braking, maintaining a flawless 3-second following distance, and never yelling at a single person who cuts you off.",
+    "image": "images/award37.webp"
+  },
+  {
+    "id": 38,
+    "title": "The Tarmac Sentinel",
+    "description": "Standing next to an airport fence for 24 uninterrupted hours, identifying every single Boeing and Airbus landing by engine sound alone without a single bathroom break.",
+    "image": "images/award38.webp"
   }
 ]
