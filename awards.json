@@ -106,5 +106,95 @@
     "title": "The Goggle Vacuum Absolute",
     "description": "Completing an entire 50-meter swim without your swim goggles filling with water, slipping down your nose, or leaving massive red rings around your eyes for the next six hours.",
     "image": "images/award18.webp"
+  },
+  {
+    "id": 19,
+    "title": "The Infinite Lobbyist",
+    "description": "Launching a Roblox game and successfully convincing a server full of seven-year-olds to agree on a single map to play.",
+    "image": "images/award19.webp"
+  },
+  {
+    "id": 20,
+    "title": "The Tycoon Perfectionist",
+    "description": "Completing a 4-hour Roblox Tycoon game without getting bored, lagging out, or having a random player step on your conveyor belt buttons.",
+    "image": "images/award20.webp"
+  },
+  {
+    "id": 21,
+    "title": "The Unshakeable Avatar",
+    "description": "Entering a Roblox catalog game and choosing an outfit in under 45 seconds without browsing through 9,000 identical items.",
+    "image": "images/award21.webp"
+  },
+  {
+    "id": 22,
+    "title": "The Obby Olympian",
+    "description": "Finishing a 500-stage Roblox Obby without experiencing a single millisecond of input lag that flings you into the void.",
+    "image": "images/award22.webp"
+  },
+  {
+    "id": 23,
+    "title": "The Chat Filter Diplomat",
+    "description": "Typing a perfectly normal, polite sentence in Roblox chat without the auto-moderator turning the entire thing into hashtags.",
+    "image": "images/award23.webp"
+  },
+  {
+    "id": 24,
+    "title": "The Creeper Whisperer",
+    "description": "Walking out of your front door in Minecraft and having a Creeper patiently wait for you to say hello instead of immediately detonating your entire storage room.",
+    "image": "images/award24.webp"
+  },
+  {
+    "id": 25,
+    "title": "The Inventory Monk",
+    "description": "Organizing your Minecraft chests once and keeping them perfectly categorized for more than twenty-four hours of gameplay.",
+    "image": "images/award25.webp"
+  },
+  {
+    "id": 26,
+    "title": "The Gravel Prophet",
+    "description": "Mining a massive vein of gravel in Minecraft and having it drop a piece of flint exactly when you actually need it.",
+    "image": "images/award26.webp"
+  },
+  {
+    "id": 27,
+    "title": "The True Architect",
+    "description": "Finishing a massive Minecraft base build exactly how you planned it, rather than leaving it as a giant, half-finished cobblestone box forever.",
+    "image": "images/award27.webp"
+  },
+  {
+    "id": 28,
+    "title": "The Nether Navigator",
+    "description": "Stepping out of a Nether Portal and not immediately spawning directly over an ocean of lava or inside a fortress full of angry blazes.",
+    "image": "images/award28.webp"
+  },
+  {
+    "id": 29,
+    "title": "The Chrono-Marathoner",
+    "description": "Clocking in 55 consecutive hours of a single gaming session while maintaining peak focus, zero fatigue, and flawless posture.",
+    "image": "images/award29.webp"
+  },
+  {
+    "id": 30,
+    "title": "The Living Sofa Statue",
+    "description": "Remaining completely fused to your couch for 31 straight days, mastering the art of absolute stillness and bending reality to bring snacks to you.",
+    "image": "images/award30.webp"
+  },
+  {
+    "id": 31,
+    "title": "The USB-C Visionary",
+    "description": "Reaching behind your computer setup and plugging in a cable blindly on the first try without knocking over your drink.",
+    "image": "images/award31.webp"
+  },
+  {
+    "id": 32,
+    "title": "The Perfect Group Project",
+    "description": "Submitting a group assignment where every single member did an equal amount of work and responded to texts within five minutes.",
+    "image": "images/award32.webp"
+  },
+  {
+    "id": 33,
+    "title": "The Legend of the Untangled Wire",
+    "description": "Pulling a pair of wired headphones out of your pocket and finding them neatly laid out instead of tied into a complex nautical knot.",
+    "image": "images/award33.webp"
   }
 ]
