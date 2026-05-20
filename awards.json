@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "The Inbox Zero Myth",
+    "description": "Successfully permanently delete all emails, spam, and unread notifications across all accounts you have ever owned since 1999.",
+    "image": "images/award1.webp"
+  },
+  {
+    "id": 2,
+    "title": "USB First-Try Mastery",
+    "description": "Plug in a standard USB-A cable correctly on the very first attempt, in the dark, while blindfolded.",
+    "image": "images/award2.webp"
+  },
+  {
+    "id": 3,
+    "title": "Grandmaster of 'I'm On My Way'",
+    "description": "Actually leaving your house at the exact moment you text someone 'I'm on my way.'",
+    "image": "images/award3.webp"
+  },
+  {
+    "id": 4,
+    "title": "The Tupperware Oracle",
+    "description": "Locate a matching plastic container and lid on the first try without causing an absolute avalanche in the cabinet.",
+    "image": "images/award4.webp"
+  },
+  {
+    "id": 5,
+    "title": "Avocado Whisperer",
+    "description": "Eat an avocado during its precise 45-second window of perfect ripeness instead of letting it turn into a black rock.",
+    "image": "images/award5.webp"
+  },
+  {
+    "id": 6,
+    "title": "The Terms & Conditions Scholar",
+    "description": "Read every single word of a software Update Agreement before clicking 'I Agree.'",
+    "image": "images/award6.webp"
+  },
+  {
+    "id": 7,
+    "title": "Supreme IKEA Pacifist",
+    "description": "Assemble a 12-drawer dresser with your romantic partner without a single sigh, argument, or leftover mysterious screw.",
+    "image": "images/award7.webp"
+  },
+  {
+    "id": 8,
+    "title": "The Single-Trip Strongman",
+    "description": "Carry 47 plastic grocery bags, a 24-pack of water, and a loose watermelon from the car to the kitchen in one single trip.",
+    "image": "images/award8.webp"
+  },
+  {
+    "id": 9,
+    "title": "Perfect Parallel Parker",
+    "description": "Parallel park perfectly on a busy city street on the first try while the drivers behind you honk aggressively.",
+    "image": "images/award9.webp"
+  },
+  {
+    "id": 10,
+    "title": "The Alarm Defier",
+    "description": "Wake up naturally 1 minute before your morning alarm, feeling fully refreshed, energized, and ready to conquer the universe.",
+    "image": "images/award10.webp"
+  },
+  {
+    "id": 11,
+    "title": "Spaghetti Portion Prophet",
+    "description": "Cook the exact right amount of dry spaghetti noodles required for a single human meal.",
+    "image": "images/award11.webp"
+  },
+  {
+    "id": 12,
+    "title": "Cereal Box Surgeon",
+    "description": "Open a new box of cereal without completely tearing the cardboard top into a jagged, unclosable mess.",
+    "image": "images/award12.webp"
+  },
+  {
+    "id": 13,
+    "title": "The Modern Monk",
+    "description": "Sit idly in a waiting room for 30 minutes without checking your phone, looking at a watch, or twitching.",
+    "image": "images/award13.webp"
+  },
+  {
+    "id": 14,
+    "title": "Printer Peace Treaty",
+    "description": "Print a 3-page document successfully on the first try without an error, jam, or 'low cyan' warning when printing black text.",
+    "image": "images/award14.webp"
+  },
+  {
+    "id": 15,
+    "title": "The Thought Sentinel",
+    "description": "Go to sleep at 10 PM without your brain forcing you to remember an embarrassing thing you said to a cashier in 2014.",
+    "image": "images/award15.webp"
+  }
+]
