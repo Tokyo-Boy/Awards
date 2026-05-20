@@ -88,5 +88,23 @@
     "title": "The Thought Sentinel",
     "description": "Go to sleep at 10 PM without your brain forcing you to remember an embarrassing thing you said to a cashier in 2014.",
     "image": "images/award15.webp"
+  },
+  {
+    "id": 16,
+    "title": "The Ghost Protocol Defier",
+    "description": "Saying 'hi' in a Discord DM or Discord server and actually receiving a coherent reply instead of being permanently left on 'read' or getting a generic bot response.",
+    "image": "images/award16.webp"
+  },
+  {
+    "id": 17,
+    "title": "The Verification Virtuoso",
+    "description": "Successfully joining a new Discord server on the first try without failing the captcha four times, getting stuck in a loop, or misinterpreting a hidden channel rule.",
+    "image": "images/award17.webp"
+  },
+  {
+    "id": 18,
+    "title": "The Goggle Vacuum Absolute",
+    "description": "Completing an entire 50-meter swim without your swim goggles filling with water, slipping down your nose, or leaving massive red rings around your eyes for the next six hours.",
+    "image": "images/award18.webp"
   }
 ]
