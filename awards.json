@@ -226,5 +226,11 @@
     "title": "The Tarmac Sentinel",
     "description": "Standing next to an airport fence for 24 uninterrupted hours, identifying every single Boeing and Airbus landing by engine sound alone without a single bathroom break.",
     "image": "images/award38.webp"
+  },
+  {
+    "id": 39,
+    "title": "The Best Role-player",
+    "description": "Roleplaying in a Roblox private server for 12 consecutive hours while flawlessly executing a complex backstory, never breaking character once, and strictly obeying all 47 hyper-specific server rules without a single warning from the moderators.",
+    "image": "images/award39.webp"
   }
 ]
