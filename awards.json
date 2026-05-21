@@ -232,5 +232,17 @@
     "title": "The Best Role-player",
     "description": "Roleplaying in a Roblox private server for 12 consecutive hours while flawlessly executing a complex backstory, never breaking character once, and strictly obeying all 47 hyper-specific server rules without a single warning from the moderators.",
     "image": "images/award39.webp"
+  },
+  {
+    "id": 40,
+    "title": "The Infinite Standing Ovation",
+    "description": "Sustaining a high-intensity, enthusiastic applause for a full 25 minutes after a mediocre performance just because you are too socially terrified to be the first person to stop clapping.",
+    "image": "images/award40.webp"
+  },
+  {
+    "id": 41,
+    "title": "The Ride-or-Die Subscriber",
+    "description": "Subscribing to your top 5 favorite YouTubers and actually watching every single video they upload, clicking the notification bell, and never skipping a single sponsor segment for three straight years.",
+    "image": "images/award41.webp"
   }
 ]
